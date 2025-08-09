@@ -171,14 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Next.js team for the amazing framework
 - Tailwind CSS for the utility-first CSS framework
 
-## 📞 Support
-
-If you have any questions or need help getting started, please:
-
-- Check the [Issues](https://github.com/beiba06/Travel-UI-UX-website/issues) page
-- Contact us at: hilink@akinthil.com
-- Phone: 123-456-7890
-
 ---
 
 ⭐ Don't forget to star this repository if you found it helpful!
