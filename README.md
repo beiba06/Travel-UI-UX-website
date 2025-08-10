@@ -176,5 +176,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Don't forget to star this repository if you found it helpful!
 
 Made with ❤️ by [beiba06](https://github.com/beiba06)
-"# UI-UX-Bank-website" 
+"# UI-UX-Travel-website" 
 #
