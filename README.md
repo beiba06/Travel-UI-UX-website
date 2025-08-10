@@ -161,8 +161,7 @@ Make sure you have the following installed:
 5. Open a Pull Request
 
 ## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is for educational and demonstration purposes only and is not intended for production banking operations.Copyright © 2025.
 
 ## 🙏 Acknowledgments
 
